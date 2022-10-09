@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../object-detection"
+		},
+		{
+			"path": "../AI Obejct Finder"
+		},
+		{
+			"path": "../here"
+		},
+		{
+			"path": "../../../Downloads/AI MUSIC 2"
+		},
+		{
+			"path": "../drive-download-20220624T020541Z-001"
+		},
+		{
+			"path": "../../../Downloads/Sound Aliens"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "drive-download-20220624T020541Z-001"
+	}
+}
